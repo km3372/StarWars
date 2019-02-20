@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "0fa9d7cc6e6a129961171d7f220ef735"
+build_time: [1543438769, 615948000]
+inputs:
+  "/Users/myworkmac/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/AFError.swift": !dirty [1543375158, 0]
+  "/Users/myworkmac/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/Alamofire.swift": !dirty [1543375158, 0]
+  "/Users/myworkmac/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": !dirty [1543375158, 0]
+  "/Users/myworkmac/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/MultipartFormData.swift": !dirty [1543375158, 0]
+  "/Users/myworkmac/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/NetworkReachabilityManager.swift": !dirty [1543375158, 0]
+  "/Users/myworkmac/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/Notifications.swift": !dirty [1543375158, 0]
+  "/Users/myworkmac/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/ParameterEncoding.swift": !dirty [1543375158, 0]
+  "/Users/myworkmac/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/Request.swift": !dirty [1543375158, 0]
+  "/Users/myworkmac/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/Response.swift": !dirty [1543375158, 0]
+  "/Users/myworkmac/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/ResponseSerialization.swift": !dirty [1543375158, 0]
+  "/Users/myworkmac/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/Result.swift": !dirty [1543375158, 0]
+  "/Users/myworkmac/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/ServerTrustPolicy.swift": !dirty [1543375158, 0]
+  "/Users/myworkmac/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/SessionDelegate.swift": !dirty [1543375158, 0]
+  "/Users/myworkmac/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/SessionManager.swift": !dirty [1543375158, 0]
+  "/Users/myworkmac/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/TaskDelegate.swift": !dirty [1543375158, 0]
+  "/Users/myworkmac/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/Timeline.swift": !dirty [1543375158, 0]
+  "/Users/myworkmac/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/Validation.swift": !dirty [1543375158, 0]

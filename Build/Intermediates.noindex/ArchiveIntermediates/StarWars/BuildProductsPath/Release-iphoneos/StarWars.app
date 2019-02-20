@@ -1,0 +1,1 @@
+/Users/myworkmac/Desktop/iOS projects/StarWars/Build/Intermediates.noindex/ArchiveIntermediates/StarWars/InstallationBuildProductsLocation/Applications/StarWars.app

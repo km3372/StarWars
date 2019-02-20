@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "cf43466a4b26bb9ac93362f73368be8c"
+build_time: [1544111274, 565259000]
+inputs:
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/StarWars/Model/Person.swift": [1543375183, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/StarWars/SelectPersonVC.swift": [1543159142, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/StarWars/Services/PersonalApi.swift": [1543375183, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/StarWars/AppDelegate.swift": [1539967604, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/StarWars/View/BlackBgView.swift": [1542066256, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/StarWars/Utils/Constants.swift": [1542828919, 0]

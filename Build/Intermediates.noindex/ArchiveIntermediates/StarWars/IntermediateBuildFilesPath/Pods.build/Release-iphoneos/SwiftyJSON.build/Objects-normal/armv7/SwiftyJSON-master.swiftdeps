@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "f29721ba0a0d57f0db94a7871b37a6d9"
+build_time: [1543378297, 895103000]
+inputs:
+  "/Users/myworkmac/Desktop/iOS projects/StarWars/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [9223372036, 854775807]

@@ -1,0 +1,87 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Alamofire-Swift.h",
+          'external-contents': "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Alamofire-umbrella.h",
+          'external-contents': "/Users/kennethmoody/Desktop/iOS projects/StarWars/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/Pods_StarWars.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-StarWars-umbrella.h",
+          'external-contents': "/Users/kennethmoody/Desktop/iOS projects/StarWars/Pods/Target Support Files/Pods-StarWars/Pods-StarWars-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_StarWars-Swift.h",
+          'external-contents': "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/Pods_StarWars.framework/Headers/Pods_StarWars-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/Pods_StarWars.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-StarWars.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-Swift.h",
+          'external-contents': "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-umbrella.h",
+          'external-contents': "/Users/kennethmoody/Desktop/iOS projects/StarWars/Pods/Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

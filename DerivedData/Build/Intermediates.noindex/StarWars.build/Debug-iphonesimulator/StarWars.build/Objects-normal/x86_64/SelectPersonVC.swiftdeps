@@ -1,0 +1,473 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SelectPersonVC"
+provides-nominal:
+- "8StarWars14SelectPersonVCC"
+provides-member:
+- ["8StarWars14SelectPersonVCC", ""]
+provides-dynamic-lookup:
+- "birthYearLbl"
+- "genderLbl"
+- "hairLbl"
+- "heightLbl"
+- "massLbl"
+- "nameLbl"
+- "ramdomClicked"
+- "viewDidLoad"
+depends-top-level:
+- !private "..."
+- !private "AssignmentPrecedence"
+- !private "FloatLiteralType"
+- !private "Int"
+- !private "IntegerLiteralType"
+- "PersonApi"
+- "SelectPersonVC"
+- "UILabel"
+- "UIViewController"
+depends-member:
+- !private ["Sz", "random"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "Int"]
+- ["s7CVarArgP", "PersonApi"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "birthYearLbl"]
+- !private ["s7CVarArgP", "genderLbl"]
+- !private ["s7CVarArgP", "hairLbl"]
+- !private ["s7CVarArgP", "heightLbl"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "massLbl"]
+- !private ["s7CVarArgP", "nameLbl"]
+- !private ["s7CVarArgP", "personApi"]
+- !private ["s7CVarArgP", "random"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["SL", "random"]
+- !private ["s28CustomDebugStringConvertibleP", "Int"]
+- ["s28CustomDebugStringConvertibleP", "PersonApi"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "birthYearLbl"]
+- !private ["s28CustomDebugStringConvertibleP", "genderLbl"]
+- !private ["s28CustomDebugStringConvertibleP", "hairLbl"]
+- !private ["s28CustomDebugStringConvertibleP", "heightLbl"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "massLbl"]
+- !private ["s28CustomDebugStringConvertibleP", "nameLbl"]
+- !private ["s28CustomDebugStringConvertibleP", "personApi"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s29CustomPlaygroundQuickLookableP", "random"]
+- !private ["s17CustomReflectableP", "random"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s23CustomStringConvertibleP", "Int"]
+- ["s23CustomStringConvertibleP", "PersonApi"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "birthYearLbl"]
+- !private ["s23CustomStringConvertibleP", "genderLbl"]
+- !private ["s23CustomStringConvertibleP", "hairLbl"]
+- !private ["s23CustomStringConvertibleP", "heightLbl"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "massLbl"]
+- !private ["s23CustomStringConvertibleP", "nameLbl"]
+- !private ["s23CustomStringConvertibleP", "personApi"]
+- !private ["s23CustomStringConvertibleP", "random"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "birthYear"]
+- !private ["Se", "gender"]
+- !private ["Se", "hair"]
+- !private ["Se", "height"]
+- !private ["Se", "mass"]
+- !private ["Se", "name"]
+- !private ["Se", "random"]
+- !private ["Se", "text"]
+- !private ["SE", "birthYear"]
+- !private ["SE", "gender"]
+- !private ["SE", "hair"]
+- !private ["SE", "height"]
+- !private ["SE", "mass"]
+- !private ["SE", "name"]
+- !private ["SE", "random"]
+- !private ["SE", "text"]
+- !private ["SQ", "Int"]
+- ["SQ", "PersonApi"]
+- ["SQ", ""]
+- !private ["SQ", "birthYearLbl"]
+- !private ["SQ", "genderLbl"]
+- !private ["SQ", "hairLbl"]
+- !private ["SQ", "heightLbl"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "massLbl"]
+- !private ["SQ", "nameLbl"]
+- !private ["SQ", "personApi"]
+- !private ["SQ", "random"]
+- !private ["SQ", "text"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s27ExpressibleByIntegerLiteralP", "random"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["s17FixedWidthIntegerP", "random"]
+- !private ["SH", "Int"]
+- ["SH", "PersonApi"]
+- ["SH", ""]
+- !private ["SH", "birthYearLbl"]
+- !private ["SH", "genderLbl"]
+- !private ["SH", "hairLbl"]
+- !private ["SH", "heightLbl"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "massLbl"]
+- !private ["SH", "nameLbl"]
+- !private ["SH", "personApi"]
+- !private ["SH", "random"]
+- !private ["SH", "text"]
+- !private ["SH", "viewDidLoad"]
+- !private ["Si", "random"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "random"]
+- !private ["s25LosslessStringConvertibleP", "random"]
+- !private ["s10MirrorPathP", "random"]
+- !private ["So8NSCodingP", "Int"]
+- ["So8NSCodingP", "PersonApi"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "birthYearLbl"]
+- !private ["So8NSCodingP", "genderLbl"]
+- !private ["So8NSCodingP", "hairLbl"]
+- !private ["So8NSCodingP", "heightLbl"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "massLbl"]
+- !private ["So8NSCodingP", "nameLbl"]
+- !private ["So8NSCodingP", "personApi"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "Int"]
+- ["So26NSExtensionRequestHandlingP", "PersonApi"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "birthYearLbl"]
+- !private ["So26NSExtensionRequestHandlingP", "genderLbl"]
+- !private ["So26NSExtensionRequestHandlingP", "hairLbl"]
+- !private ["So26NSExtensionRequestHandlingP", "heightLbl"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "massLbl"]
+- !private ["So26NSExtensionRequestHandlingP", "nameLbl"]
+- !private ["So26NSExtensionRequestHandlingP", "personApi"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "PersonApi"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "birthYearLbl"]
+- ["So8NSObjectC", "genderLbl"]
+- ["So8NSObjectC", "hairLbl"]
+- ["So8NSObjectC", "heightLbl"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "massLbl"]
+- ["So8NSObjectC", "nameLbl"]
+- ["So8NSObjectC", "personApi"]
+- ["So8NSObjectC", "ramdomClicked"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "Int"]
+- ["So8NSObjectP", "PersonApi"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "birthYearLbl"]
+- !private ["So8NSObjectP", "genderLbl"]
+- !private ["So8NSObjectP", "hairLbl"]
+- !private ["So8NSObjectP", "heightLbl"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "massLbl"]
+- !private ["So8NSObjectP", "nameLbl"]
+- !private ["So8NSObjectP", "personApi"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["Sj", "random"]
+- !private ["Sq", "text"]
+- !private ["8StarWars6PersonV", "birthYear"]
+- !private ["8StarWars6PersonV", "gender"]
+- !private ["8StarWars6PersonV", "hair"]
+- !private ["8StarWars6PersonV", "height"]
+- !private ["8StarWars6PersonV", "mass"]
+- !private ["8StarWars6PersonV", "name"]
+- !private ["8StarWars9PersonApiC", "getRandomPersonAlamo"]
+- ["8StarWars9PersonApiC", "init"]
+- !private ["8StarWars14SelectPersonVCC", "Int"]
+- ["8StarWars14SelectPersonVCC", "PersonApi"]
+- ["8StarWars14SelectPersonVCC", "UILabel"]
+- ["8StarWars14SelectPersonVCC", "birthYearLbl"]
+- ["8StarWars14SelectPersonVCC", "genderLbl"]
+- ["8StarWars14SelectPersonVCC", "hairLbl"]
+- ["8StarWars14SelectPersonVCC", "heightLbl"]
+- ["8StarWars14SelectPersonVCC", "init"]
+- ["8StarWars14SelectPersonVCC", "massLbl"]
+- ["8StarWars14SelectPersonVCC", "nameLbl"]
+- ["8StarWars14SelectPersonVCC", "personApi"]
+- ["8StarWars14SelectPersonVCC", "ramdomClicked"]
+- ["8StarWars14SelectPersonVCC", "viewDidLoad"]
+- !private ["SZ", "random"]
+- !private ["s13SignedNumericP", "random"]
+- !private ["Sx", "random"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "Int"]
+- ["So21UIAppearanceContainerP", "PersonApi"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "birthYearLbl"]
+- !private ["So21UIAppearanceContainerP", "genderLbl"]
+- !private ["So21UIAppearanceContainerP", "hairLbl"]
+- !private ["So21UIAppearanceContainerP", "heightLbl"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "massLbl"]
+- !private ["So21UIAppearanceContainerP", "nameLbl"]
+- !private ["So21UIAppearanceContainerP", "personApi"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "Int"]
+- ["So18UIContentContainerP", "PersonApi"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "birthYearLbl"]
+- !private ["So18UIContentContainerP", "genderLbl"]
+- !private ["So18UIContentContainerP", "hairLbl"]
+- !private ["So18UIContentContainerP", "heightLbl"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "massLbl"]
+- !private ["So18UIContentContainerP", "nameLbl"]
+- !private ["So18UIContentContainerP", "personApi"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "Int"]
+- ["So18UIFocusEnvironmentP", "PersonApi"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "birthYearLbl"]
+- !private ["So18UIFocusEnvironmentP", "genderLbl"]
+- !private ["So18UIFocusEnvironmentP", "hairLbl"]
+- !private ["So18UIFocusEnvironmentP", "heightLbl"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "massLbl"]
+- !private ["So18UIFocusEnvironmentP", "nameLbl"]
+- !private ["So18UIFocusEnvironmentP", "personApi"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So7UILabelC", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "Int"]
+- ["So30UIPasteConfigurationSupportingP", "PersonApi"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "birthYearLbl"]
+- !private ["So30UIPasteConfigurationSupportingP", "genderLbl"]
+- !private ["So30UIPasteConfigurationSupportingP", "hairLbl"]
+- !private ["So30UIPasteConfigurationSupportingP", "heightLbl"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "massLbl"]
+- !private ["So30UIPasteConfigurationSupportingP", "nameLbl"]
+- !private ["So30UIPasteConfigurationSupportingP", "personApi"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "Int"]
+- ["So11UIResponderC", "PersonApi"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "birthYearLbl"]
+- ["So11UIResponderC", "genderLbl"]
+- ["So11UIResponderC", "hairLbl"]
+- ["So11UIResponderC", "heightLbl"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "massLbl"]
+- ["So11UIResponderC", "nameLbl"]
+- ["So11UIResponderC", "personApi"]
+- ["So11UIResponderC", "ramdomClicked"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "Int"]
+- ["So30UIResponderStandardEditActionsP", "PersonApi"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "birthYearLbl"]
+- !private ["So30UIResponderStandardEditActionsP", "genderLbl"]
+- !private ["So30UIResponderStandardEditActionsP", "hairLbl"]
+- !private ["So30UIResponderStandardEditActionsP", "heightLbl"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "massLbl"]
+- !private ["So30UIResponderStandardEditActionsP", "nameLbl"]
+- !private ["So30UIResponderStandardEditActionsP", "personApi"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "Int"]
+- ["So16UIStateRestoringP", "PersonApi"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "birthYearLbl"]
+- !private ["So16UIStateRestoringP", "genderLbl"]
+- !private ["So16UIStateRestoringP", "hairLbl"]
+- !private ["So16UIStateRestoringP", "heightLbl"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "massLbl"]
+- !private ["So16UIStateRestoringP", "nameLbl"]
+- !private ["So16UIStateRestoringP", "personApi"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "Int"]
+- ["So18UITraitEnvironmentP", "PersonApi"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "birthYearLbl"]
+- !private ["So18UITraitEnvironmentP", "genderLbl"]
+- !private ["So18UITraitEnvironmentP", "hairLbl"]
+- !private ["So18UITraitEnvironmentP", "heightLbl"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "massLbl"]
+- !private ["So18UITraitEnvironmentP", "nameLbl"]
+- !private ["So18UITraitEnvironmentP", "personApi"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "Int"]
+- ["So23UIUserActivityRestoringP", "PersonApi"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "birthYearLbl"]
+- !private ["So23UIUserActivityRestoringP", "genderLbl"]
+- !private ["So23UIUserActivityRestoringP", "hairLbl"]
+- !private ["So23UIUserActivityRestoringP", "heightLbl"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "massLbl"]
+- !private ["So23UIUserActivityRestoringP", "nameLbl"]
+- !private ["So23UIUserActivityRestoringP", "personApi"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "text"]
+- !private ["So16UIViewControllerC", "Int"]
+- ["So16UIViewControllerC", "PersonApi"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "birthYearLbl"]
+- ["So16UIViewControllerC", "genderLbl"]
+- ["So16UIViewControllerC", "hairLbl"]
+- ["So16UIViewControllerC", "heightLbl"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "massLbl"]
+- ["So16UIViewControllerC", "nameLbl"]
+- ["So16UIViewControllerC", "personApi"]
+- ["So16UIViewControllerC", "ramdomClicked"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["s18_BitwiseOperationsP", "random"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "random"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "random"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Int"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "PersonApi"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "birthYearLbl"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "genderLbl"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hairLbl"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "heightLbl"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "massLbl"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "nameLbl"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "personApi"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "random"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+depends-nominal:
+- !private "Sz"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "SH"
+- !private "Si"
+- !private "10SwiftyJSON17JSONSubscriptTypeP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sj"
+- !private "Sq"
+- !private "8StarWars6PersonV"
+- "8StarWars9PersonApiC"
+- "8StarWars14SelectPersonVCC"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So7UILabelC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s18_BitwiseOperationsP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "b3076092ac0e486645e640f2e6a5a05c"

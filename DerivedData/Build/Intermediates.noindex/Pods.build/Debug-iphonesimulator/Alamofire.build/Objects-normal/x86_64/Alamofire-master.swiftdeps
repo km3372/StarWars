@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "dfd2f98962c1e2fe8f4c94d2eb671f3a"
+build_time: [1544111273, 432793000]
+inputs:
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/AFError.swift": [1543375158, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/Alamofire.swift": [1543375158, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1543375158, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/MultipartFormData.swift": [1543375158, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1543375158, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/Notifications.swift": [1543375158, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/ParameterEncoding.swift": [1543375158, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/Request.swift": [1543375158, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/Response.swift": [1543375158, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/ResponseSerialization.swift": [1543375158, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/Result.swift": [1543375158, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1543375158, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/SessionDelegate.swift": [1543375158, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/SessionManager.swift": [1543375158, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/TaskDelegate.swift": [1543375158, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/Timeline.swift": [1543375158, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/StarWars/Pods/Alamofire/Source/Validation.swift": [1543375158, 0]

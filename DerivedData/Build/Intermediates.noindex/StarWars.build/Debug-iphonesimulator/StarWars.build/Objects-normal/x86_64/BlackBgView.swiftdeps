@@ -1,0 +1,270 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "BlackBgView"
+- "BlackBgButton"
+provides-nominal:
+- "8StarWars11BlackBgViewC"
+- "8StarWars13BlackBgButtonC"
+provides-member:
+- ["8StarWars11BlackBgViewC", ""]
+- ["8StarWars13BlackBgButtonC", ""]
+provides-dynamic-lookup:
+- "awakeFromNib"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "BlACK_BG"
+- "BlackBgButton"
+- "BlackBgView"
+- !private "IntegerLiteralType"
+- "UIButton"
+- "UIView"
+depends-member:
+- !private ["8StarWars13BlackBgButtonC", "BlACK_BG"]
+- ["8StarWars13BlackBgButtonC", "awakeFromNib"]
+- ["8StarWars13BlackBgButtonC", "init"]
+- !private ["8StarWars13BlackBgButtonC", "layer"]
+- !private ["8StarWars11BlackBgViewC", "BlACK_BG"]
+- ["8StarWars11BlackBgViewC", "awakeFromNib"]
+- ["8StarWars11BlackBgViewC", "init"]
+- !private ["8StarWars11BlackBgViewC", "layer"]
+- !private ["So7CALayerC", "backgroundColor"]
+- !private ["So7CALayerC", "cornerRadius"]
+- !private ["So15CALayerDelegateP", "BlACK_BG"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "layer"]
+- !private ["So13CAMediaTimingP", "backgroundColor"]
+- !private ["So13CAMediaTimingP", "cornerRadius"]
+- !private ["s7CVarArgP", "BlACK_BG"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "backgroundColor"]
+- !private ["s7CVarArgP", "cornerRadius"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "layer"]
+- !private ["s28CustomDebugStringConvertibleP", "BlACK_BG"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "backgroundColor"]
+- !private ["s28CustomDebugStringConvertibleP", "cornerRadius"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "layer"]
+- !private ["s23CustomStringConvertibleP", "BlACK_BG"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "backgroundColor"]
+- !private ["s23CustomStringConvertibleP", "cornerRadius"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "layer"]
+- !private ["SQ", "BlACK_BG"]
+- ["SQ", ""]
+- !private ["SQ", "backgroundColor"]
+- !private ["SQ", "cornerRadius"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "layer"]
+- !private ["SH", "BlACK_BG"]
+- ["SH", ""]
+- !private ["SH", "backgroundColor"]
+- !private ["SH", "cornerRadius"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "layer"]
+- !private ["So8NSCodingP", "BlACK_BG"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "backgroundColor"]
+- !private ["So8NSCodingP", "cornerRadius"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "layer"]
+- !private ["So8NSObjectC", "BlACK_BG"]
+- ["So8NSObjectC", "awakeFromNib"]
+- !private ["So8NSObjectC", "backgroundColor"]
+- !private ["So8NSObjectC", "cornerRadius"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "layer"]
+- !private ["So8NSObjectP", "BlACK_BG"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "backgroundColor"]
+- !private ["So8NSObjectP", "cornerRadius"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "layer"]
+- !private ["So14NSSecureCodingP", "backgroundColor"]
+- !private ["So14NSSecureCodingP", "cornerRadius"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "BlACK_BG"]
+- ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", ""]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "layer"]
+- !private ["So29UIAccessibilityIdentificationP", "BlACK_BG"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "layer"]
+- !private ["So12UIAppearanceP", "BlACK_BG"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "layer"]
+- !private ["So21UIAppearanceContainerP", "BlACK_BG"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "layer"]
+- !private ["So8UIButtonC", "BlACK_BG"]
+- ["So8UIButtonC", ""]
+- ["So8UIButtonC", "awakeFromNib"]
+- ["So8UIButtonC", "init"]
+- !private ["So8UIButtonC", "init"]
+- !private ["So8UIButtonC", "layer"]
+- !private ["So9UIControlC", "BlACK_BG"]
+- ["So9UIControlC", "awakeFromNib"]
+- ["So9UIControlC", "init"]
+- !private ["So9UIControlC", "init"]
+- !private ["So9UIControlC", "layer"]
+- !private ["So17UICoordinateSpaceP", "BlACK_BG"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "layer"]
+- !private ["So13UIDynamicItemP", "BlACK_BG"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "layer"]
+- !private ["So18UIFocusEnvironmentP", "BlACK_BG"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "layer"]
+- !private ["So11UIFocusItemP", "BlACK_BG"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "layer"]
+- !private ["So20UIFocusItemContainerP", "BlACK_BG"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "layer"]
+- !private ["So30UIPasteConfigurationSupportingP", "BlACK_BG"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "layer"]
+- !private ["So11UIResponderC", "BlACK_BG"]
+- ["So11UIResponderC", "awakeFromNib"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "layer"]
+- !private ["So30UIResponderStandardEditActionsP", "BlACK_BG"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "layer"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "BlACK_BG"]
+- ["So35UISpringLoadedInteractionSupportingP", ""]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "layer"]
+- !private ["So18UITraitEnvironmentP", "BlACK_BG"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "layer"]
+- !private ["So23UIUserActivityRestoringP", "BlACK_BG"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "layer"]
+- !private ["So6UIViewC", "BlACK_BG"]
+- ["So6UIViewC", ""]
+- ["So6UIViewC", "awakeFromNib"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "layer"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "BlACK_BG"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "layer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "BlACK_BG"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backgroundColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cornerRadius"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
+depends-nominal:
+- "8StarWars13BlackBgButtonC"
+- "8StarWars11BlackBgViewC"
+- !private "So7CALayerC"
+- "So15CALayerDelegateP"
+- !private "So13CAMediaTimingP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So8UIButtonC"
+- "So9UIControlC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So35UISpringLoadedInteractionSupportingP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "s37_DefaultCustomPlaygroundQuickLookableP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/kennethmoody/Desktop/iOS projects/StarWars/DerivedData/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "3818c9cf302ef00e03c5da409dea3da1"
